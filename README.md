@@ -11,3 +11,7 @@ Alexander Vermillion worked on most of the logic and the code, making the body o
 Rahulrajan Karthikeyan worked on parts of the coding aspect and the presentation. Tarun Anandanpillai contributed to the presentation and carpentry. 
 
 "The Team that Spent Forty Minutes Picking this Name" was later renamed to "Rendering Bullets" and constitutes myself, Alexander Vermillion, Rahulrajan Karthikeyan, and Tarun Anandanpillai. 
+
+
+
+Website by Rahulrajan Karthikeyan: https://rahulrajank2017.wixsite.com/website
